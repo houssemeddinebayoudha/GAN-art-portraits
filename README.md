@@ -57,6 +57,8 @@ As explained before I used a simple GAN architecture that was very much inspired
 .\
 The rest of the process can be found in the Colab Notebook. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/185WY6I6Z5CcvQID7hZryb357O95AHYi9?usp=sharing)
 
+You can find the trained models [here](https://github.com/houssemeddinebayoudha/GAN-art-portraits/tree/main/Models)
+
 
 
 
