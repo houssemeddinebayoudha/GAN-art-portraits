@@ -14,7 +14,9 @@ Going from generating random noise to somewhat of an art.
 <p align="center">
   <img src="https://github.com/houssemeddinebayoudha/GAN-art-portraits/blob/main/Gif/animation_5.gif" alt="animated" />
 </p>
+
 ## What's a GAN ?
+
 # GAN (Generative Adversarial Network)
 
 A Generative Adversarial Network (GAN) is a type of deep learning model that is used for generating new, synthetic data that is similar to a training dataset. It consists of two neural networks: a generator and a discriminator. The generator produces synthetic data, while the discriminator determines whether the data is real or fake.
