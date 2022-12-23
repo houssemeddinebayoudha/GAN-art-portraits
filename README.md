@@ -12,7 +12,7 @@ It consists of :
 ## Training process
 Going from generating random noise to somewhat of an art.
 <p align="center">
-  <img src="[demo.gif](https://github.com/houssemeddinebayoudha/GAN-art-portraits/blob/main/Gif/animation_5.gif)" alt="animated" />
+  <img src="https://github.com/houssemeddinebayoudha/GAN-art-portraits/blob/main/Gif/animation_5.gif" alt="animated" />
 </p>
 ## What's a GAN ?
 # GAN (Generative Adversarial Network)
