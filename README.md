@@ -3,7 +3,7 @@
 ## Introduction
 After being inspired by thousand Text-To-Art models I took it upon myself to learn more about the field.\
  So as a First step I made this project which was for educational purposes only.\
-It consists of :\
+It consists of :
 - Finding a good and free Dataset
 - Training a Simple **GAN architecture** On the dataset
 - Viewing the model's progress in training
@@ -11,7 +11,7 @@ It consists of :\
 
 ## Training process
 Going from generating random noise to somewhat of an art.
-![](https://i.imgur.com/5EMZZGv.mp4)
+![](https://github.com/houssemeddinebayoudha/GAN-art-portraits/blob/main/Gif/animation_5.gif)
 
 ## What's a GAN ?
 # GAN (Generative Adversarial Network)
